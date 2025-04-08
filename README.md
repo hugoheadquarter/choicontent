@@ -4,7 +4,7 @@ This tool automates the process of taking YouTube videos (with English audio), f
 
 Think of it as your personal AI assistant for creating engaging video highlights. It uses smart AI technology (from OpenAI) to handle tasks like listening to the audio, figuring out the best segment, translating, adding subtitles, and even drafting promotional text.
 
-## Quick Start Guide (Simplified & Corrected)
+## Quick Start Guide
 
 This guide assumes you have:
 *   Downloaded the project files (including `video.py`).
